@@ -7,9 +7,6 @@ def main(a,b):
     Returns:
         bool
     """
-    a=1133
-    
-    b=13
-
     # Write your code here
     return a==b
+print(main(2,4))
