@@ -8,5 +8,5 @@ def main(a):
     """
     # Write your code here
     
-    return bool(a)
+    return a==7
 
