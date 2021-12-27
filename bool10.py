@@ -6,4 +6,4 @@ def main(a):
         bool
     """
     # Write your code here
-    return a*a==type(int)
+    return type(a*a)==int
